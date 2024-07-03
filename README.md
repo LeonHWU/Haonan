@@ -6,8 +6,9 @@ This repository is dedicated to practicing LeetCode problems focused on improvin
 
 Below is a table of problems sorted by topic with a link to each problem on LeetCode and a column to track progress. Each topic includes carefully selected problems to cover a wide range of techniques.
 
-| Topic                | Problem Title         | LeetCode Link                               | Progress       |
-|----------------------|-----------------------|---------------------------------------------|----------------|
+| Topic                   | Problem Title         | LeetCode Link                               | Progress       |
+|-------------------------|-----------------------|---------------------------------------------|----------------|
+| 🌳 Hash                 | Example Hash Problem  | [View](https://leetcode.com/problems/problem1) | 🔴 Not Started |
 | 🌳 Depth-first Search   | Example DFS Problem   | [View](https://leetcode.com/problems/problem1) | 🔴 Not Started |
 | 🌊 Breadth-first Search | Example BFS Problem   | [View](https://leetcode.com/problems/problem2) | 🔴 Not Started |
 | 🔙 Backtracking         | Example Backtrack     | [View](https://leetcode.com/problems/problem3) | 🔴 Not Started |
